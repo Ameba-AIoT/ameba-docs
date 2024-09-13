@@ -1,9 +1,6 @@
 Welcome to Ameba Documentation Homepage!
 ========================================
 
-Documentation page
-------------------
-
 .. toctree::
    :caption: Documentation page
    :maxdepth: 1

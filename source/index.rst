@@ -39,9 +39,9 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaDPlus
 
-            `RTL8721Dx <https://ameba-iot-docs.readthedocs.io/en/latest/>`_
+            `RTL8721Dx <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/RTL8721Dx/latest/>`_
 
-            RTL8711Dx
+            `RTL8711Dx <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/RTL8711Dx/latest/>`_
 
 Indices and tables
 ==================

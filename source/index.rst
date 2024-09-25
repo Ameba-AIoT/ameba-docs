@@ -33,15 +33,10 @@ Welcome to Ameba Documentation Homepage!
 
             RTL8720EA
 
-            RTL8713EC
-
-            RTL8710EC
-
          .. tab:: AmebaDPlus
 
             `RTL8721Dx <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/RTL8721Dx/latest/>`_
 
-            `RTL8711Dx <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/RTL8711Dx/latest/>`_
 
 Indices and tables
 ==================

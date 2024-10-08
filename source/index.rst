@@ -5,9 +5,14 @@ Welcome to Ameba Documentation Homepage!
 
    .. tab:: Arduino SDK
 
-      `AmebaPro2 <https://ameba-arduino-doc.readthedocs.io/en/latest/amebapro2/index.html>`_
+      .. tabs::
 
-      `AmebaD <https://ameba-arduino-doc.readthedocs.io/en/latest/amebad/index.html>`_
+         .. tab:: AmebaPro2
+
+            `AMB82 mini <https://ameba-arduino-doc.readthedocs.io/en/latest/amebapro2/index.html>`_
+
+         .. tab:: AmebaD
+            `AMB23 <https://ameba-arduino-doc.readthedocs.io/en/latest/amebad/index.html>`_
 
    .. tab:: Matter SDK
 

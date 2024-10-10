@@ -9,10 +9,10 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaPro2
 
-            `AMB82 mini <https://ameba-arduino-doc.readthedocs.io/en/latest/amebapro2/index.html>`_
+            `AMB82 mini <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/amebapro2/index.html>`_
 
          .. tab:: AmebaD
-            `AMB23 <https://ameba-arduino-doc.readthedocs.io/en/latest/amebad/index.html>`_
+            `AMB23 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/amebad/index.html>`_
 
    .. tab:: Matter SDK
 
@@ -30,7 +30,7 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaPro2
 
-            `RTL8735B <https://ameba-rtos-pro2-doc.readthedocs.io/en/latest/index.html>`_
+            `RTL8735B <https://ameba-doc-rtos-pro2-sdk.readthedocs-hosted.com/en/latest/index.html>`_
 
          .. tab:: AmebaLite
 

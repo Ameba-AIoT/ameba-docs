@@ -34,13 +34,11 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaLite
 
-            RTL8726EA
-
-            RTL8720EA
+            `AmebaLite <https://ameba-aiot.github.io/ameba-iot-docs/amebalite/en/latest/>`_
 
          .. tab:: AmebaDPlus
 
-            `RTL8721Dx <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/latest/>`_
+            `AmebaDPlus <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/latest/>`_
 
 
 Indices and tables

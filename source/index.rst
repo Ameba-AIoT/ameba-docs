@@ -26,7 +26,7 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaSmart
 
-            RTL8730E
+            `RTL8730E series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8730E/en/freertos/latest/>`_
 
          .. tab:: AmebaPro2
 
@@ -34,16 +34,10 @@ Welcome to Ameba Documentation Homepage!
 
          .. tab:: AmebaLite
 
-            `AmebaLite <https://ameba-aiot.github.io/ameba-iot-docs/amebalite/en/latest/>`_
+            `RTL8726EA series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8726EA/en/latest/>`_
+
+            `RTL8720EA series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8720EA/en/latest/>`_
 
          .. tab:: AmebaDPlus
 
-            `AmebaDPlus <https://ameba-aiot.github.io/ameba-iot-docs/amebadplus/en/latest/>`_
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+            `RTL8721Dx series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8721Dx/en/latest/>`_

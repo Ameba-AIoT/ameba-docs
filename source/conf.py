@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Ameba Documentation Homapage'
-copyright = '2024 Realtek Semiconductor Corp. All rights reserved'
-author = 'REALTEK SG'
-release = 'v1.0'
+project = 'Ameba AIoT Documentation Homapage'
+copyright = '2025 Realtek Semiconductor Corp. All rights reserved'
+author = 'REALTEK SG SD3'
+release = 'v1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

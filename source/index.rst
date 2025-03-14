@@ -944,23 +944,26 @@
 
       .. tabs::
 
-         .. tab:: AmebaSmart
+         .. tab:: AmebaSmart/AmebaLite/AmebaLite
 
-            `RTL8730E series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8730E/en/freertos/latest/>`_
+            `https://ameba-aiot.github.io/ameba-iot-docs/freertos/en/latest/`_
+
+            `https://ameba-aiot.github.io/ameba-iot-docs/freertos/cn/latest/`_
 
          .. tab:: AmebaPro2
 
             `RTL8735B <https://ameba-doc-rtos-pro2-sdk.readthedocs-hosted.com/en/latest/index.html>`_
 
-         .. tab:: AmebaLite
+   .. tab:: Linux
 
-            `RTL8726EA series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8726EA/en/latest/>`_
+      .. tabs::
 
-            `RTL8720EA series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8720EA/en/latest/>`_
+         .. tab:: AmebaSmart
 
-         .. tab:: AmebaDPlus
+            `https://ameba-aiot.github.io/ameba-iot-docs/linux/en/latest/`_
 
-            `RTL8721Dx series <https://ameba-aiot.github.io/ameba-iot-docs/RTL8721Dx/en/latest/>`_
+            `https://ameba-aiot.github.io/ameba-iot-docs/linux/cn/latest/`_
+
 
 .. raw:: html
 

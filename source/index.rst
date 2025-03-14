@@ -911,36 +911,37 @@
 
 .. tabs::
 
-   .. tab:: Arduino SDK
+   .. tab:: Arduino
 
-      .. tabs::
+      .. table::
+         :class: table-transparent
+         :align: center
 
-         .. tab:: AmebaPro2
+         +-------------------------------------------+---------------------------------------------------------------+
+         | Arduino SDKs                              | Arduino Online Documents                                      |
+         +===========================================+===============================================================+
+         | |img_github_logo_arduino_pro2|            | - `AMB82-mini <link01_doc_Arduino_>`_                         |
+         |                                           |                                                               |
+         | **Ameba Pro2**                            |                                                               |
+         |                                           |                                                               |
+         | - `Source Code <link01_GitHub_Arduino_>`_ |                                                               |
+         +-------------------------------------------+---------------------------------------------------------------+
+         | |img_github_logo_arduino_d|               | - `AMB21 / AMB22 <link02_doc_Arduino_>`_                      |
+         |                                           | - `AMB23 <link03_doc_Arduino_>`_                              |
+         | **Ameba D**                               | - `AMB25 <link04_doc_Arduino_>`_                              |
+         |                                           | - `AMB26 <link05_doc_Arduino_>`_                              |
+         | - `Source Code <link02_GitHub_Arduino_>`_ | - `BW16 <link06_doc_Arduino_>`_                               |
+         |                                           | - `BW16-TypeC <link07_doc_Arduino_>`_                         |
+         |                                           | - `AW-CU488 <link08_doc_Arduino_>`_                           |
+         +-------------------------------------------+---------------------------------------------------------------+
 
-            `AMB82 mini <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/index.html>`_
-
-         .. tab:: AmebaD
-            `AMB21 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb21/index.html>`_
-
-            `AMB23 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb23/index.html>`_
-
-            `AMB25 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb25/index.html>`_
-
-            `AMB26 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb26/index.html>`_
-
-            `BW16 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/bw16-typeb/index.html>`_
-
-            `BW16-TypeC <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/bw16-typec/index.html>`_
-
-            `AW-CU488 <https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/aw-cu488/index.html>`_
-
-   .. tab:: Matter SDK
+   .. tab:: Matter
 
       `FreeRTOS <https://github.com/Ameba-AIoT/ameba-rtos-matter>`_
 
       `Linux <https://github.com/Ameba-AIoT/meta-realtek-matter>`_
 
-   .. tab:: FreeRTOS SDK
+   .. tab:: FreeRTOS
 
       .. tabs::
 
@@ -985,8 +986,12 @@
 .. |img_award| image:: ./_static/COMPUTEX_Best_Choice_Award_logo.png
    :width:  50px
 
-.. |img_github_logo| image:: ./_static/GitHub_Logo_2025.png
-   :target: https://github.com/Ameba-AIoT
+.. |img_github_logo_arduino_pro2| image:: ./_static/GitHub_Logo_2025.png
+   :target: https://github.com/Ameba-AIoT/ameba-arduino-pro2
+   :width:  50px
+
+.. |img_github_logo_arduino_d| image:: ./_static/GitHub_Logo_2025.png
+   :target: https://github.com/Ameba-AIoT/ameba-arduino-d
    :width:  50px
 
 .. |img_AMB82_MINI| image:: ./_static/ameba_board_photos/AMB82_MINI.png
@@ -1166,3 +1171,23 @@
 .. _link03_AMB01: https://12geeks.com/shop/platforms/ameba/ameba-rtl8195-arduino-wireless-board.html
 
 .. _link04_AMB01: https://littlebirdelectronics.com.au/ameba-rtl8195-arduino-wireless-board
+
+.. _link01_GitHub_Arduino: https://github.com/Ameba-AIoT/ameba-arduino-pro2
+
+.. _link02_GitHub_Arduino: https://github.com/Ameba-AIoT/ameba-arduino-d
+
+.. _link01_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/index.html
+
+.. _link02_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb21/index.html
+
+.. _link03_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb23/index.html
+
+.. _link04_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb25/index.html
+
+.. _link05_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/amb26/index.html
+
+.. _link06_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/bw16-typeb/index.html
+
+.. _link07_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/bw16-typec/index.html
+
+.. _link08_doc_Arduino: https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_d/aw-cu488/index.html

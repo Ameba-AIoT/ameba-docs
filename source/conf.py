@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Ameba AIoT Documentation Homapage'
+project = 'Ameba AIoT Documentation Homepage'
 copyright = '2025 Realtek Semiconductor Corp. All rights reserved'
 author = 'REALTEK SG SD3'
 release = 'v1.1'

@@ -946,9 +946,9 @@
 
          .. tab:: AmebaSmart/AmebaLite/AmebaLite
 
-            `https://ameba-aiot.github.io/ameba-iot-docs/freertos/en/latest/`_
+            https://ameba-aiot.github.io/ameba-iot-docs/freertos/en/latest/
 
-            `https://ameba-aiot.github.io/ameba-iot-docs/freertos/cn/latest/`_
+            https://ameba-aiot.github.io/ameba-iot-docs/freertos/cn/latest/
 
          .. tab:: AmebaPro2
 
@@ -960,9 +960,9 @@
 
          .. tab:: AmebaSmart
 
-            `https://ameba-aiot.github.io/ameba-iot-docs/linux/en/latest/`_
+            https://ameba-aiot.github.io/ameba-iot-docs/linux/en/latest/
 
-            `https://ameba-aiot.github.io/ameba-iot-docs/linux/cn/latest/`_
+            https://ameba-aiot.github.io/ameba-iot-docs/linux/cn/latest/
 
 
 .. raw:: html

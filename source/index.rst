@@ -914,8 +914,7 @@
    .. tab:: Arduino
 
       .. table::
-         :class: table-transparent
-         :align: center
+         :align: left
 
          +-------------------------------------------+---------------------------------------------------------------+
          | Arduino SDKs                              | Arduino Online Documents                                      |
